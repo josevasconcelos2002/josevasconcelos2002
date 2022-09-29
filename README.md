@@ -1,8 +1,7 @@
 <h1 align="center">Hi there ⚡ I am José Vasconcelos!😄</h1>
 <div align="center">
-  <a href="https://github.com/josevasconcelos2002">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=josevasconcelos2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevasconcelos2002&layout=compact&langs_count=7&theme=tokyonight"/>
+   <a href="https://github.com/josevasconcelos2002/github-readme-stats"><img height="165em" alt="José Vasconcelos's Github Stats" src="https://github-readme-stats.vercel.app/api?username=josevasconcelos2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/josevasconcelos2002/github-readme-stats"><img height="165em" alt="José Vasconcelos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevasconcelos2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
