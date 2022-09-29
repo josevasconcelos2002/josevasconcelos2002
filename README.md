@@ -31,3 +31,10 @@
   ![Snake animation](https://github.com/josevasconcelos2002/josevasconcelos2002/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div align="center">
+	<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+		<img src="https://komarev.com/ghpvc/?username=josevasconcelos2002">
+	</a>
+	<a href="https://github.com/josevasconcelos2002?tab=followers"><img src="https://img.shields.io/github/followers/josevasconcelos2002?label=Followers&style=social" 			alt="GitHub Badge"></a>
+</div> 
