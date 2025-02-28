@@ -4,7 +4,7 @@
   <a href="https://github.com/josevasconcelos2002/github-readme-stats"><img height="165em" alt="José Vasconcelos's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevasconcelos2002&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Jose-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jose-Tailwind-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Jose-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
   <img align="center" alt="Jose-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
